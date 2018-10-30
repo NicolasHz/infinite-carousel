@@ -1,1 +1,12 @@
-/* You can add global styles to this file, and also import other style files */
+/* Add application styles & imports to this file! */
+body {
+    background: #333;
+    color: #fff;
+    font-size: 22pt;
+    text-align: center;
+    font-family: 'Teko';
+    letter-spacing: 0.15em;
+  }
+  
+  body * { -webkit-user-select: none }
+  
